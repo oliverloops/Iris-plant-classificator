@@ -1,6 +1,8 @@
+//Iris data set extracted from https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
 const IRIS_CLASSES = ['Iris-setosa', 'Iris-versicolor', 'Iris-virginica'];
 const IRIS_NUM_CLASSES = IRIS_CLASSES.length;
 
+//Dataset port
 const IRIS_DATA = [
     [5.1, 3.5, 1.4, 0.2, 0], [4.9, 3.0, 1.4, 0.2, 0], [4.7, 3.2 , 1.3, 0.2, 0],
     [4.6, 3.1, 1.5, 0.2, 0], [5.0, 3.6, 1.4, 0.2, 0], [5.4, 3.9, 1.7, 0.4, 0],
