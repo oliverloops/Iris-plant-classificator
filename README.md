@@ -1,4 +1,4 @@
-# Iris-plant-classificator :tulip:
+# Iris-plant-classificator :tulip::memo:
 ### :godmode: _A Neural Network Classificator based on Tensorflow.js_ 
 
 1. dataset.js ---> Contains all Iris Data Set ported to JS
