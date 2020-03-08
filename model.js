@@ -26,6 +26,7 @@ function convertToTensors(data, targets, testSplit){
     return [xTrain, yTrain, xTest, yTest];
 }
 
+//test spliting function
 function getIrisData(testSplit){
     return tf.tidy(() => {
         const dataByClass = [];
