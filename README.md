@@ -5,4 +5,4 @@
 2. _model.js_ ---> Contains all trained model for Iris plant classification
 3. _model_callbacks.js_ ---> This is the HTML script in order to callback all functions inside the model
 
-:bowtie: _Enjoy working with ML on just plain JavaScript_ :bowtie:
+:bowtie: _Enjoy working with ML on plain Vanilla JavaScript_ :bowtie:
